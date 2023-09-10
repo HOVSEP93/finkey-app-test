@@ -13,18 +13,3 @@ Description:
 
 
 
-ID
-service_kdvr48r
-
-TEMP ID
-template_ckfnwbb
-
-PUBLIC KEY
-k-P7zvJFgQMOrQaww
-
- .sendForm(
-        "service_kdvr48r",
-        "template_ckfnwbb",
-        form.current,
-        "k-P7zvJFgQMOrQaww"
-      )
