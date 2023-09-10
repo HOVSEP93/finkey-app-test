@@ -1,12 +1,1 @@
-footer
-https://github.com/mrtnprzk/movies-by-parizek
 
-contact design goood but only css styles
-https://github.com/jhwa426/React-Portfolio
-
-
-timeline
-https://github.com/stephane-monnot/react-vertical-timeline
-
-same timeline
-https://github.com/cp-ankush/Timeline
