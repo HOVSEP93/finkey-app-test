@@ -1,0 +1,30 @@
+Sender name: {{name}}
+
+Sender email: {{email}}
+
+Sender phone company: {{company}}
+
+Sender phone number: {{number}}
+
+Description:
+
+{{message}}
+
+
+
+
+ID
+service_kdvr48r
+
+TEMP ID
+template_ckfnwbb
+
+PUBLIC KEY
+k-P7zvJFgQMOrQaww
+
+ .sendForm(
+        "service_kdvr48r",
+        "template_ckfnwbb",
+        form.current,
+        "k-P7zvJFgQMOrQaww"
+      )

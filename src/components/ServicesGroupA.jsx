@@ -26,7 +26,7 @@ const ServicesGroupA = () => {
               <div className=" max-w-[280px] w-full">
                 <div>
                   <a
-                    href="https://github.com/hudamnhd/landing-page-boldo"
+                    href="#"
                     className="flex w-fit items-center space-x-5  border-b-2 border-gray-500 pb-1 font-semibold"
                   >
                     <span>{service.buttonText}</span>
